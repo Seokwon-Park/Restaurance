@@ -83,7 +83,6 @@ class _MyHomePageState extends State<MyHomePage> {
         children: <Widget>[
           Table(children: [
             TableRow(children: [
-
               Text(
                 '입장시간',
                 style: TextStyle(
@@ -111,10 +110,7 @@ class _MyHomePageState extends State<MyHomePage> {
                       color: Colors.black),
                   textAlign: TextAlign.right),
               Padding(padding: EdgeInsets.all(0.0)),
-              SizedBox(
-
-                  //goto Details.dart
-                  ),
+              SizedBox(),
             ])
           ]),
           StreamBuilder<QuerySnapshot>(
@@ -129,7 +125,34 @@ class _MyHomePageState extends State<MyHomePage> {
                 } else {
                   return SizedBox();
                 }
-              })
+              }),
+          Table(children: [
+            TableRow(children: [
+              Text(
+                '선택일자 평균',
+                style: TextStyle(
+                  fontSize: 24,
+                  fontWeight: FontWeight.bold,
+                  color: Colors.black,
+                ),
+              ),
+              Text(''),
+              Text('구현x',
+                  style: TextStyle(
+                      fontSize: 24,
+                      fontWeight: FontWeight.bold,
+                      color: Colors.black),
+                  textAlign: TextAlign.right),
+              Text('구현x',
+                  style: TextStyle(
+                      fontSize: 24,
+                      fontWeight: FontWeight.bold,
+                      color: Colors.black),
+                  textAlign: TextAlign.right),
+              Padding(padding: EdgeInsets.all(0.0)),
+              SizedBox(),
+            ])
+          ]),
         ],
       ),
 
