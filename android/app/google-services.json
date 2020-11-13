@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "163486495696",
+    "firebase_url": "https://test-b17a1.firebaseio.com",
+    "project_id": "test-b17a1",
+    "storage_bucket": "test-b17a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163486495696:android:d78bb9dae5cd9e1ee8bfd5",
+        "android_client_info": {
+          "package_name": "com.example.memo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "163486495696-rseirlk33t7jk96qlptrjbui0mkfm52j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZLeu72SZiuzWYlvRItVgiLpVGIV-aEgI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "163486495696-rseirlk33t7jk96qlptrjbui0mkfm52j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163486495696:android:4fcb281816a6e5f9e8bfd5",
+        "android_client_info": {
+          "package_name": "com.example.sibal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "163486495696-rseirlk33t7jk96qlptrjbui0mkfm52j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZLeu72SZiuzWYlvRItVgiLpVGIV-aEgI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "163486495696-rseirlk33t7jk96qlptrjbui0mkfm52j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163486495696:android:832c6a50d8c962b7e8bfd5",
+        "android_client_info": {
+          "package_name": "com.test.sibal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "163486495696-rseirlk33t7jk96qlptrjbui0mkfm52j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZLeu72SZiuzWYlvRItVgiLpVGIV-aEgI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "163486495696-rseirlk33t7jk96qlptrjbui0mkfm52j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
